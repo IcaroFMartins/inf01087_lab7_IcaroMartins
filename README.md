@@ -1,5 +1,4 @@
-# inf01087_lab7_IcaroMartins
-# Laboratório de GitHub
+# Laboratório de GitHub - Versão Incrível
 Nome: Ícaro Martins
 Curso: Ciência da Computação
 Disciplina: INF01087
